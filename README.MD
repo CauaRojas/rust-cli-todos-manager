@@ -37,7 +37,7 @@ git clone https://github.com/CauaRojas/rust-cli-todos-manager.git
 2.Change into the project directory:
 
 ```shell
-cd rust-todos
+cd rust-cli-todos-manager
 ```
 
 3.Build the project:

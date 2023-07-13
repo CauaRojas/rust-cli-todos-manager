@@ -31,7 +31,7 @@ To use this tool, you need to have Rust installed on your system. If you don't h
 1.Clone this repository:
 
 ```shell
-git clone https://github.com/your/repo.git
+git clone https://github.com/CauaRojas/rust-cli-todos-manager.git
 ```
 
 2.Change into the project directory:

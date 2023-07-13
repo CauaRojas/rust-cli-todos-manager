@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-todos-manager"
+name = "rust-todos"
 version = "0.1.0"
 dependencies = [
  "serde",
